@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "riendelskyblock.mcsh.io",
+    "ip": "15.235.145.240",
     "port": 13717,
     "version": "1.21.11",
     "try-creative": false
